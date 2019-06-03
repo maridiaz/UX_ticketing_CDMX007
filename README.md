@@ -14,15 +14,15 @@ El mayor actor en el mercado de venta de boletos nos ha contactado para rediseñ
 
 Ticketmaster no ha realizado aún una investigación formal, pero algunos de los problemas que escuchan frecuentemente son los siguientes:
 
-*“Es súper complicado comprar entradas en su web”*
-*“Nunca me acuerdo cuál es mi usuario de Ticketmaster”*
-*“Soy extranjero y mi tarjeta nunca es aceptada”*
-*“No sé dónde puedo recoger mis boletos”*
-*“Es casi imposible que una persona distinta a la que compró el boleto lo recoja”*
+**“Es súper complicado comprar entradas en su web”*
+**“Nunca me acuerdo cuál es mi usuario de Ticketmaster”*
+**“Soy extranjero y mi tarjeta nunca es aceptada”*
+**“No sé dónde puedo recoger mis boletos”*
+**“Es casi imposible que una persona distinta a la que compró el boleto lo recoja”*
  “Te cobran por todo: comisión al comprar el boleto, comisión por método de entrega del boleto, cargo en tu tarjeta al recogerlo.”*
-*“En teléfono esperé unos 80 minutos para que me atendieran.”*
-*“ODIO que te hagan ir a recoger tus boletos, se me hace del año del caldo, deberían de mandarte QR y ya! Lo mismo, el servicio al teléfono es terrible, te dan mil anuncios y no te dicen nada”*
-*“Me parece absurdo que te hagan recoger el boleto!!!! Y si no es por QR Code, mínimo que puedas recogerlo en el mismo establecimiento del concierto y el mismo día!! Para que vayas y listo. Cuando te mandan a otro lugar y en otras fechas tengo ganas de llorar”*
+**“En teléfono esperé unos 80 minutos para que me atendieran.”*
+**“ODIO que te hagan ir a recoger tus boletos, se me hace del año del caldo, deberían de mandarte QR y ya! Lo mismo, el servicio al teléfono es terrible, te dan mil anuncios y no te dicen nada”*
+**“Me parece absurdo que te hagan recoger el boleto!!!! Y si no es por QR Code, mínimo que puedas recogerlo en el mismo establecimiento del concierto y el mismo día!! Para que vayas y listo. Cuando te mandan a otro lugar y en otras fechas tengo ganas de llorar”*
 
 
 Como parte del reto, Ticketmaster nos ha pedido que hagamos lo siguiente:
