@@ -57,7 +57,7 @@ De la página de Ticketmaster, se logró reducir el flujo de compra de 9 a 4 pas
 
 ![GitHub ticketmaster](pantallas/métodopago1.png)
 
-![GitHub ticketmaster](pantallas/Listo.png)
+![GitHub ticketmaster](pantallas/Listo-1.png)
 
 ![GitHub ticketmaster](pantallas/seleccionarfecha1.png)
 
