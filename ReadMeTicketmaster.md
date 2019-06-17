@@ -73,9 +73,9 @@ Durante el testeo, realizado a 10 personas apegadas al perfil de Erika Rodrígue
 1. 4 usuarios se cuestionaban el porqué debían personalizar el boleto, pues consideraban que era un paso extra y volvía la experiencia de compra aún más tediosa.
 2. A 2 usuarios les agradó la idea de personalizar boletos porque lo consideran un valor agregado, les permite generar un recuerdo de una gran experiencia tras haber asistido a un evento de interés y gusto personal.
 
-![GitHub Test](evidencias/test.jpg)
+![GitHub Test](evidencias/test.JPG)
 
-![GitHub Test](evidencias/testeo2.jpg)
+![GitHub Test](evidencias/test2.JPG)
 
 Finalmente, con base en los hallazgos durante el test, se comprobó que la propuesta para agilizar el proceso de compra en preventa en realidad no estaba siendo percibido como un proceso ágil. Por lo tanto, como siguiente iteración se tiene el objetivo de regresar a la fase de ideación para proponer otra solución en donde el usuario no sienta que se agregaron pasos o que la compra de boletos es más complicada.
 
