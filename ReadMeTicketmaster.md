@@ -6,7 +6,7 @@ La venta oficial de entradas en taquilla, obliga a los usuarios a enfrentarse a 
 
 Algunas de las principales empresas que operan en el mercado internacional de venta de boletos incluyen a Razorgato, StubHub, Ticketmaster, Garrapata Fandango, AOL Inc ., Atom Tickets LLC, Fandango, Movietickets.com, Grandes cines, Cinemark Holdings Inc ., BookMyShow.com, Vue Entertainment, Mtime y Kyazoonga.
 
-## Tickemtaster
+## Ticketmaster
  
 El objetivo es entender los distintos problemas relacionados a la venta de boletos para espectáculos, tanto del lado de las personas que utilizan el servicio como del lado del negocio.  
 
@@ -45,21 +45,21 @@ Sin embargo, las ideas anteriores se enfocaban más desde una perspectiva de mar
 ## Prototipo
 De la página de Ticketmaster, se logró reducir el flujo de compra de 9 a 4 pasos gracias a un benchmark con páginas como ticketnetwork.com y la versión estadounidense de la propia Ticketmaster.
 
-![GitHub Home](pantallas/Home.png)
+![GitHub Home](Pantallas/Home.png)
 
-![GitHub Fecha](pantallas/seleccionarfecha1.png)
+![GitHub Fecha](Pantallas/seleccionarfecha1.png)
 
-![GitHub Boletos](pantallas/selecciónboletos1.png)
+![GitHub Boletos](Pantallas/selecciónboletos1.png)
 
-![GitHub Asientos](pantallas/selecciónasiento3.png)
+![GitHub Asientos](Pantallas/selecciónasiento3.png)
 
-![GitHub Entrega](pantallas/métodoentrega1.png)
+![GitHub Entrega](Pantallas/métodoentrega1.png)
 
-![GitHub Pago](pantallas/métodopago1.png)
+![GitHub Pago](Pantallas/métodopago1.png)
 
-![GitHub Confirmación](pantallas/Listo-1.png)
+![GitHub Confirmación](Pantallas/Listo-1.png)
 
-![GitHub Personalización](pantallas/personaliza-3.png)
+![GitHub Personalización](Pantallas/personaliza-3.png)
 
 ## KPI's
 Entre las métricas para medir resultados a futuro se consideró lo siguiente:
